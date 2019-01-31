@@ -1,20 +1,21 @@
 TEST FOR GITHUB PAGES 
 -see how this *works*
-	Syntax highlighted code block
+#
+Syntax highlighted code block
 
-	# Header 1
-	## Header 2
-	### Header 3
+# Header 1
+## Header 2
+### Header 3
 
-	- Bulleted
-	- List
+- Bulleted
+- List
 
-	1. Numbered
-	2. List
+1. Numbered
+2. List
 
-	**bold** 
-	*italic*
-	
-	**Bold** and _Italic_ and `Code` text
+**bold** 
+*italic*
 
-	[Link](url) and ![Image](src)
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
